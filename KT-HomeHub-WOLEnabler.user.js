@@ -2,8 +2,8 @@
 // @name        KT-HomeHub-WOLEnabler
 // @namespace   https://github.com/iAmGhost/KT-HomeHub-WOLEnabler
 // @description Brings back WOL menu from KT HomeHub
-// @include     http://172.30.1.254/new/user_main.asp
-// @version     1.0
+// @include     http://*/new/user_main.asp
+// @version     1.0a
 // @grant       none
 // ==/UserScript==
 
